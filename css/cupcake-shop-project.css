@@ -1,0 +1,23 @@
+body {
+  text-align: center;
+}
+
+h1.flashy {
+  color: red;
+  font-style: italic; 
+}
+
+ul.flashy {
+  color: red;
+  font-style: italic; 
+  
+}
+
+a.flashy {
+  color: red;
+  font-style: italic; 
+}
+
+strong.best {
+  color: brown
+}
